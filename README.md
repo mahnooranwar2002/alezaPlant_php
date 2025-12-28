@@ -39,5 +39,5 @@ These features are restricted to administrators for managing the store, inventor
 ### 3. Order and Inventory Control
 
 * **View Orders:** Access a comprehensive list of all placed orders, including customer details and items purchased.
-* **Live Book Quantity:** Inventory levels are accurately tracked and decremented instantly upon order placement.
+* **Live Plant Quantity:** Inventory levels are accurately tracked and decremented instantly upon order placement.
 * **Update Order Status:** Change the status of an order (e.g., Pending, Shipped, Delivered).
